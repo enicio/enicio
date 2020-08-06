@@ -4,7 +4,7 @@ Atuo no desenvolviemento de sistemas embarcados e no momento estou conhecendo de
 
 
  
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:jessandro42@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jessandro42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:jessandro42@gmail.com)
 
 <!--
 **enicio/enicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
