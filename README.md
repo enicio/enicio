@@ -1,6 +1,6 @@
 ### Um Maker 👋
-Envolvido em hardware e software.
-Aqui veremos toda a parte de software para controle e documentação.
+Envolvido em hardware e software. <br>
+Aqui veremos toda a parte de software para controle e documentação.<br>
 Atuo no desenvolviemento de sistemas embarcados e no momento estou conhecendo de perto as possibiliades do frontend.
 
 
