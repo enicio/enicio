@@ -1,4 +1,10 @@
-### Hi there 👋
+### Um Maker 👋
+Envolvido em hardware e software. Aqui veremos toda a parte de software para controle e documentação.
+Atuo no desenvolviemento de sistemas embarcados e no momento estou conhecendo de perto as possibiliades do frontend.
+
+
+ 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:jessandro42@gmail.com)
 
 <!--
 **enicio/enicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
