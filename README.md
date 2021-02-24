@@ -9,6 +9,9 @@ Atuo no desenvolvimento de sistemas embarcados e no momento estou conhecendo de 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enicio)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enicio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **enicio/enicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
