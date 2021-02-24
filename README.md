@@ -7,6 +7,8 @@ Atuo no desenvolvimento de sistemas embarcados e no momento estou conhecendo de 
  
 [![Gmail Badge](https://img.shields.io/badge/-jessandro42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:jessandro42@gmail.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?enicio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **enicio/enicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
