@@ -1,8 +1,5 @@
 ### Um Maker 👋
-Envolvido em hardware e software. <br>
-Aqui veremos toda a parte de software para controle e documentação.<br>
-Atuo no desenvolvimento de sistemas embarcados e no momento estou conhecendo de perto as possibiliades do frontend.
-
+- 🌱 I’m currently learning about software architecture
 
  
 [![Gmail Badge](https://img.shields.io/badge/-jessandro42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:jessandro42@gmail.com)
